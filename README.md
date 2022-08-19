@@ -1,5 +1,5 @@
 # AuthyTray
- Because Authy doesnt provide a Try icon (run in background), i made an app to do it
+ Because Authy doesnt provide a Tray icon (run in background), i made an app to do it
 
 Run as administrator to install the program at startup
 
