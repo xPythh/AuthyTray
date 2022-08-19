@@ -1,0 +1,10 @@
+C:\Users\xpyth\source\repos\AuthyTray\AuthyTray\bin\Debug\AuthyTray.exe.config
+C:\Users\xpyth\source\repos\AuthyTray\AuthyTray\bin\Debug\AuthyTray.exe
+C:\Users\xpyth\source\repos\AuthyTray\AuthyTray\bin\Debug\AuthyTray.pdb
+C:\Users\xpyth\source\repos\AuthyTray\AuthyTray\obj\Debug\AuthyTray.csproj.AssemblyReference.cache
+C:\Users\xpyth\source\repos\AuthyTray\AuthyTray\obj\Debug\AuthyTray.Properties.Resources.resources
+C:\Users\xpyth\source\repos\AuthyTray\AuthyTray\obj\Debug\AuthyTray.csproj.GenerateResource.cache
+C:\Users\xpyth\source\repos\AuthyTray\AuthyTray\obj\Debug\AuthyTray.csproj.CoreCompileInputs.cache
+C:\Users\xpyth\source\repos\AuthyTray\AuthyTray\obj\Debug\AuthyTray.exe
+C:\Users\xpyth\source\repos\AuthyTray\AuthyTray\obj\Debug\AuthyTray.pdb
+C:\Users\xpyth\source\repos\AuthyTray\AuthyTray\obj\Debug\AuthyTray.AuthyTray.resources
